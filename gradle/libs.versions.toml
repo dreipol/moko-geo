@@ -25,7 +25,7 @@ mokoResources = { module = "dev.icerock.moko:resources", version.ref = "mokoReso
 
 
 kotlinGradlePlugin = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin", version.ref = "kotlinVersion" }
-androidGradlePlugin = { module = "com.android.tools.build:gradle", version = "7.4.2" }
+androidGradlePlugin = { module = "com.android.tools.build:gradle", version = "8.3.2" }
 googleServicesGradlePlugin = { module = "com.google.gms:google-services", version = "4.4.2" }
 mokoGradlePlugin = { module = "dev.icerock.moko:moko-gradle-plugin", version = "0.3.0" }
 mobileMultiplatformGradlePlugin = { module = "dev.icerock:mobile-multiplatform", version = "0.14.2" }
